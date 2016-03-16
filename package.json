@@ -1,17 +1,15 @@
 {
   "name": "autocomplete-look",
   "main": "./lib/autocomplete-look",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Autocomplete Provider for completing English words",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/tomoasleep/autocomplete-look",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "providedServices": {
     "autocomplete.provider": {
       "versions": {
