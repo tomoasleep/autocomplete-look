@@ -3,4 +3,5 @@
 This package completes English words by using `look` command.  
 This package requires [autocomplete+](https://github.com/atom/autocomplete-plus) package and `look` command.
 
-![Completion Demo](completion-demo.gif?raw=true)
+![Completion Demo](https://raw.githubusercontent.com/tomoasleep/autocomplete-look/master/completion-demo.gif)
+
